@@ -1,11 +1,11 @@
 
-<h1 align="center">
+<h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/XoXO1dZUw1tJLc9FdU/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -19,29 +19,31 @@
   <img src="https://komarev.com/ghpvc/?username=amc1981&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="480" height="480"/>
 </div>
 
 ---
 
-### :man_technologist: About me:
+### :man_technologist: About me
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my new [blog](http://blog.antoniomuniz.com/)
+- 🌱 I’m currently learning:
+  - 💻 [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+  - ⌨️ [Vim Profesional](https://www.udemy.com/course/vim-profesional/)
+  - 🖱️ [The ultimate Devops Bootcamp - 2023](https://www.udemy.com/course/the-complete-devops-bootcamp/)
+- 👯 I’m looking to collaborate on Open Source projects.
+- 🤔 I’m looking for help with technical writing resources. 
+- 💬 Ask me whatever you want.
+- 📫 How to reach me: <a href="mailto:amc1981@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="e-mail"></a>
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amc1981&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
@@ -49,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts 
 
 [![Latest blog post workflow](https://github.com/amc1981/amc1981/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/amc1981/amc1981/actions/workflows/blog-post-workflow.yml)
 
@@ -62,6 +64,11 @@ Here are some ideas to get you started:
 
 ---
 
+### 📢 Let's get in touch
+
+<a href="mailto:amc1981@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="Mail"></a>
+
+---
 
 <details>
   <summary>Source and credits to </summary>
