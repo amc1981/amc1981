@@ -47,7 +47,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amc1981&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### :writing_hand: Blog Posts :
+
+[![Latest blog post workflow](https://github.com/amc1981/amc1981/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/amc1981/amc1981/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
 - [jekyll-sitemap: Crea el sitemap de tu web en Jekyll](https://blog.antoniomuniz.com/blogging/2023/07/17/jekyll-sitemap-crea-el-sitemap-de-tu-web-en-jekyll/)
