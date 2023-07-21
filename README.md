@@ -29,8 +29,6 @@
 
 ### :man_technologist: About me
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my new [blog](http://blog.antoniomuniz.com/)
 - 🌱 I’m currently learning:
   - 💻 [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
