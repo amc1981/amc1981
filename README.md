@@ -60,3 +60,14 @@ Here are some ideas to get you started:
 - [Crea Tu Primer Post En Jekyll](https://blog.antoniomuniz.com/blogging/2023/07/10/Crea-tu-primer-post-en-Jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+
+<details>
+  <summary>Source and credits to </summary>
+  
+  [Nida Khan](https://github.com/itsZed0)
+  
+  <a href="https://www.sitepoint.com/github-profile-readme/">Follow her tutorial for configuring your Github profile page like this</a>
+
+</details>
