@@ -72,10 +72,11 @@
 ---
 
 <details>
-  <summary>Source and credits to </summary>
+  
+  <summary>Source and credits to: </summary>
   
   [Nida Khan](https://github.com/itsZed0)
-  
+
   <a href="https://www.sitepoint.com/github-profile-readme/">Follow her tutorial for configuring your Github profile page like this</a>
 
 </details>
