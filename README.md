@@ -57,10 +57,10 @@
 [![Latest blog post workflow](https://github.com/amc1981/amc1981/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/amc1981/amc1981/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Creando tus propias colleciones en Jekyll](https://blog.antoniomuniz.com/blogging/2023/07/21/creando-tus-propias-colleciones-en-jekyll/)
 - [jekyll-sitemap: Crea el sitemap de tu web en Jekyll](https://blog.antoniomuniz.com/blogging/2023/07/17/jekyll-sitemap-crea-el-sitemap-de-tu-web-en-jekyll/)
 - [jekyll-feed: plugin para crear un fichero de feeds](https://blog.antoniomuniz.com/blogging/2023/07/17/jekyll-feed-plugin-para-crear-un-fichero-de-feeds/)
 - [jekyll-compose: Automatiza el manejo de ficheros en Jekyll](https://blog.antoniomuniz.com/blogging/2023/07/16/jekyll-compose-automatiza-el-manejo-de-ficheros-en-jekyll/)
-- [Crea Tu Primer Post En Jekyll](https://blog.antoniomuniz.com/blogging/2023/07/10/Crea-tu-primer-post-en-Jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
