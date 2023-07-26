@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://blog.antoniomuniz.com/blog/feed.xslt.xml"
+          feed_list: "https://antoniomuniz.com/blog/feed.xslt.xml"
