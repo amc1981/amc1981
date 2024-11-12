@@ -30,12 +30,11 @@
 ### :man_technologist: About me
 
 - 🔭 I’m currently working on my new [blog](http://blog.antoniomuniz.com/)
-- 🌱 I’m currently learning:
-  - 💻 [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
-  - ⌨️ [Vim Profesional](https://www.udemy.com/course/vim-profesional/)
-  - 🖱️ [The ultimate Devops Bootcamp - 2023](https://www.udemy.com/course/the-complete-devops-bootcamp/)
+- 🌱 I recently learn:
+  - [Azure fundamentals](https://learn.microsoft.com/en-us/users/antoniomuizcasado-7173/credentials/certification/azure-fundamentals?tab=credentials-tab)
+  - AWS Cloud Practicioner
+
 - 👯 I’m looking to collaborate on Open Source projects.
-- 🤔 I’m looking for help with technical writing resources. 
 - 💬 Ask me whatever you want.
 - 📫 How to reach me: <a href="mailto:amc1981@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="e-mail"></a>
 
